@@ -1,0 +1,6 @@
+@namespace display "tourdeflex.display.*";
+
+display|AccessDataDisplay.pie
+{
+    skin-class: ClassReference("tourdeflex.display.AccessDataDisplayPieSkin");
+}
